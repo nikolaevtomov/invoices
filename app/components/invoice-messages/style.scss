@@ -1,0 +1,15 @@
+/*! _style.scss */
+
+@import "../../styles/variables";
+
+.succeed {
+  color: $colorSuccess;
+}
+
+.warning {
+  color: $colorDanger;
+}
+
+.submitting {
+  color: $color6;
+}

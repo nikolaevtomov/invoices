@@ -1,0 +1,10 @@
+/*! _invoices.scss */
+
+$component: 'invoices';
+
+.#{$component} {
+
+  &__item {
+    margin-bottom: 1.2rem;
+  }
+}
